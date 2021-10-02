@@ -5,7 +5,7 @@ ecb-sdw is a python client for the ECB Statistical Data Warehouse (SDW) API.
 tbc
 
 ## Requirements
-tbc
+None
 
 ## Documentation
 tbc
